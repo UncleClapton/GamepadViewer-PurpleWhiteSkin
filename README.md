@@ -1,7 +1,7 @@
 # GamepadViewer-PurpleWhiteSkin
 A Purple on White skin mod for [Gamepad Viewer](https://gamepadviewer.com/).
 
-
+For those who want something other than red.
 
 
 
@@ -45,3 +45,5 @@ Can't find your problem? Feel free to [open an issue](https://github.com/UncleCl
 Gamepad Viewer & PS4 controller skin was created by [Mr McPowned](https://mrmcpowned.com/)
 
 White PS4 controller edits made by some awesome anonymous dude.
+
+Made for [Hotsammysliz](https://twitch.tv/hotsammysliz) and The Sweg Kingdom at large.
