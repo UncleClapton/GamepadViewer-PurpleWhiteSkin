@@ -7,7 +7,7 @@ A Purple on White skin mod for [Gamepad Viewer](https://gamepadviewer.com/).
 
 ## How To Use
 
-This skin is a style mod which overrides the White PS4 skin of Gamepad Viewer. It utilizes the "Edit CSS" feature of GPV to
+This skin is a style mod which overrides parts of the white PS4 skin with edited versions found in the svgs directory of this repo.
 
 
 ### Basic setup
@@ -21,7 +21,7 @@ https://gamepadviewer.com/?p=1&s=8&editcss=https%3A%2F%2Fraw.githubusercontent.c
 
 You can generate your own settings URL [here](https://gamepadviewer.com/#generate)!
 
-To apply this skin on top of Gamepad Viwer, make sure the following settings are set:
+To apply this skin on top of Gamepad Viewer, make sure the following settings are set:
 
 * **Skin**: `PlayStation 4 (White)`
 * **Edit CSS URL**: `https://raw.githubusercontent.com/UncleClapton/GamepadViewer-PurpleWhiteSkin/master/style.css`
